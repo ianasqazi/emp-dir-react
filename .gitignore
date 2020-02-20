@@ -26,14 +26,14 @@ yarn-error.log*
 .DS_Store
 
 # # Dependency directories
-# node_modules/
+node_modules/
 
 # # vscode
-# .vscode
+.vscode
 
 # # Output of 'npm pack'
-# *.tgz
+*.tgz
 
 # # Logs
-# logs
-# *.log
+logs
+*.log

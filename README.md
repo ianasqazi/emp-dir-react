@@ -1,3 +1,69 @@
+# **REACT-EMPLOYEE-DIRECTORY**
+
+
+An employee or manager would benefit greatly from being able to view non-sensitive data about other employees. It would be particularly helpful to be able to filter employees by name.
+
+## USER STORY 
+
+> AS AN avid traveller
+> I WANT to be able to track my withdrawals and deposits with or without a internet connection
+> SO THAT my account balance is accurate when I am traveling
+
+> AS A user, 
+> I WANT to be able to view my entire employee directory at once 
+> SO THAT I have quick access to their information.
+
+## HEROKU DEPLOYED LINK 
+
+Click the link below to check the APP :
+[HOROKU LINK](https://shrouded-citadel-60867.herokuapp.com/)
+
+## Repository 
+
+Click the link below to check the repository :
+[GitHub URL](https://github.com/ianasqazi/employee-directory-react)
+
+## Preview
+
+![HOME_PAGE](/screenshots/react-employee-directory.png)
+
+## Requirements
+
+For testing, you will need Node.js and node global package, and also the following dependency packages installed in your environement.  
+
+
+### NPM Packages
+
+- REACT
+- REACT-DOM
+- REACT-SCRIPTS
+- AXIOS
+
+## Running the Application
+
+1. Run the following commands in your terminal window 
+
+```bash
+git clone https://github.com/ianasqazi/employee-directory-react
+
+cd employee-directory-react
+
+npm install
+```
+
+<!-- 2. Run the seeder file if running on local machine or app connected on HEROKU - JAWS DB
+```bash
+node seeders/seed.js
+``` -->
+
+All packages will be installed and now run the application with the command below : 
+
+```bash
+npm start
+```
+
+## REACT
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
